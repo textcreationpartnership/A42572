@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the superiours, (whether bishops or priests) which approve or license the popish books in England particularly to those of the Jesuits order, concerning Lewis Sabran, a Jesuit.</title>
+            <author>Gee, Edward, 1657-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42572</idno>
+            <idno type="STC">Wing G457</idno>
+            <idno type="STC">ESTC R9493</idno>
+            <idno type="EEBO-CITATION">12590070</idno>
+            <idno type="OCLC">ocm 12590070</idno>
+            <idno type="VID">63875</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63875)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 960:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the superiours, (whether bishops or priests) which approve or license the popish books in England particularly to those of the Jesuits order, concerning Lewis Sabran, a Jesuit.</title>
+                  <author>Gee, Edward, 1657-1730.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Attributed to Edward Gee. cf. NUC pre-1956.</note>
+                  <note>Signed at end: E.G.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sabran, Lewis, 1652-1732.</term>
+               <term>Catholic Church --  England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63875:1"/>
+            <pb facs="tcp:63875:1" rendition="simple:additions"/>
+            <p>A LETTER TO THE Superiours, (Whether Biſhops or Prieſts) Which Approve or Licenſe the <hi>Popiſh Books</hi> IN ENGLAND, Particularly <hi>To thoſe of the Jeſuits Order,</hi> CONCERNING <hi>LEWIS SABRAN</hi> a Jeſuit.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur hic Libellus cui Titulus, <hi>A Letter to the Superiours,</hi> &amp;c.</p>
+                        <closer>
+                           <signed>Jo. Battely.</signed>
+                           <date>
+                              <hi>June</hi> 7. 1688.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Rogers,</hi> at the <hi>Sun</hi> over againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:63875:2"/>
+            <pb n="1" facs="tcp:63875:2"/>
+            <head>
+               <hi>A</hi> LETTER to the Romiſh Superiours In <hi>ENGLAND.</hi>
+            </head>
+            <opener>
+               <salute>Reverend Sirs,</salute>
+            </opener>
+            <p>YOU will not wonder at my making this Addreſs to your ſelves, ſince you were ſo lately pleas'd to allow Mr. <hi>Sabran</hi> to ſet me an Example of it; and cannot therefore diſallow that in me, which was ſo commen<g ref="char:EOLhyphen"/>dable in him. When I wrote my laſt Letter to Mr. <hi>Sa<g ref="char:EOLhyphen"/>bran,</hi> I was ſo weary of ſuch an Adverſary, that I pro<g ref="char:EOLhyphen"/>miſed him never to anſwer him more, if he purſued the methods of his Challenge defended. This I will believe was the reaſon why it was thought expedient to trouble the Reverend Mr. <hi>Needham</hi> with the Controverſie, who hath a much better Employment upon his hands, than to anſwer every Caviller that would be drawing him off from his better Services to our Church.</p>
+            <p>I have not forgot my Promiſe of troubling my ſelf no more with Mr. <hi>Sabran;</hi> and yet cannot be juſt to my own ſelf, if I do not take ſome care to purge my ſelf from ſome Wrongs he has done me in that Letter to Mr. <hi>Need<g ref="char:EOLhyphen"/>ham:</hi> you were pleaſed to allow of thoſe Abuſes to the Preſs, and therefore muſt give me leave not only to make my Complaints to you, but to expect that you will do me all the Right herein that one Chriſtian ought to do to another.</p>
+            <p>
+               <pb n="2" facs="tcp:63875:3"/>I need not inform you how I came engaged with Mr. <hi>Sabran,</hi> that it was concerning a <hi>Sermon de Sanctis,</hi> which Mr. <hi>Sabran</hi> had quoted in his Pulpit as St. <hi>Auſtin</hi>'s, and I denied it to be his. Some of you were pleaſed not only to allow that Sermon, with that Paſſage in it, to the Preſs, but to approve of all the unlearned Arguments and Fet<g ref="char:EOLhyphen"/>ches which he afterwards uſed in defence of himſelf. What Services you did your Cauſe or your Church by that buſineſs, your ſelves by this time, I preſume, are able to tell. I am very well ſatisfied with all I wrote againſt him upon that account, and am ſo fully perſwaded that I was perfectly in the right in that Affair, that I am confi<g ref="char:EOLhyphen"/>dent there is not one Learned Biſhop, Prieſt, or Deacom in your own Church beyond Seas, that is not of the ſame mind with me about that Sermon.</p>
+            <p>I will not appeal to any of you in <hi>England,</hi> becauſe you have made your ſelves Parties to his Quarrel by Licenſing his Papers; and Learning may be a different thing in <hi>England,</hi> from what it is beyond Seas.</p>
+            <p>I will not preſume any more to think that any of you did violence to your own Judgments in Licenſing of Mr. <hi>Sabran</hi>'s Papers: far be it from me to have ſo uncharitable a thought of Perſons of your Characters and Station. However, to convince you that what he wrote, and you approved, about that 35 <hi>Sermon de Sanctis,</hi> was contrary to the Judgments of all men of Learning in the World, (your ſelves only excepted here in <hi>England</hi>); I do here offer and undertake to refer the Determination of that Controverſie betwixt Mr. <hi>Sabran</hi> and me, to any Learn<g ref="char:EOLhyphen"/>ed Perſons or Societies beyond the Seas. I will refer it, if you pleaſe, to the Benedictines (Congregationis St. <hi>Mauri</hi>) at <hi>Paris,</hi> concerning whom, you, Gentlemen of the Jeſu<g ref="char:EOLhyphen"/>its Order, muſt pardon me that I think them to be as far before your Order in Learning and Knowledge in An<g ref="char:EOLhyphen"/>tiquity,
+<pb n="3" facs="tcp:63875:3"/>
+as their Order was before you in ſtanding.</p>
+            <p>But if Exceptions be made againſt them as Parties on my ſide, (which I cannot deny them to be) that have al<g ref="char:EOLhyphen"/>ready determined againſt Mr. <hi>Sabran,</hi> and thoſe that al<g ref="char:EOLhyphen"/>lowed his Papers to the Preſs; I am as willing to refer it to thoſe learnedeſt men now in <hi>France,</hi> Father <hi>Mabillon,</hi> Monſieur <hi>Baluze,</hi> and Monſieur <hi>Bigot,</hi> or any two of them; and do here make you (Reverend Sirs) this Pro<g ref="char:EOLhyphen"/>poſal, That what hath been written on both ſides, ſhall be faithfully communicated to them; and that if you can procure a Letter from them that they are ſatisfied with Mr. <hi>Sabran</hi>'s Arguments, that that 35 <hi>Sermon de Sanctis</hi> was St. <hi>Auſtin</hi>'s, I do here engage my Reputation to you and the World, that I will not only beg Mr. <hi>Sa<g ref="char:EOLhyphen"/>bran</hi>'s Pardon, but make my Recantation as publick to the World as this Challenge is.</p>
+            <p>You cannot but think, Reverend Sirs, that I have very good grounds for all I wrote againſt Mr. <hi>Sabran,</hi> that dare put this matter to ſuch an iſſue before men of your own Perſwaſion, before men that look upon me as a down<g ref="char:EOLhyphen"/>right Heretick, and therefore cannot be ſuſpected of ſhew<g ref="char:EOLhyphen"/>ing me the leaſt favour herein.</p>
+            <p>I am convinced to a demonſtration, that what I wrote in that Controverſie was the very Truth, and that what you allowed to the Preſs, could not be ſo. I will not be ſo bold as to call upon you to do St. <hi>Auſtin</hi> and me right, in retracting what you have done for Mr. <hi>Sabran</hi> herein; but I cannot but entreat you that for your own ſake, for Truths ſake, and for the Worlds ſake, you would not al<g ref="char:EOLhyphen"/>low for the future ſuch things to the Preſs, becauſe againſt us, which are condemned not only by us, but by all the men of Learning of your Church beyond Sea, who cannot but be aſhamed of any Violences done to Truth, Learn<g ref="char:EOLhyphen"/>ing, or Ingenuity.</p>
+            <p>
+               <pb n="4" facs="tcp:63875:4"/>This Controverſie with Mr. <hi>Sabran,</hi> about St. <hi>Auſtin,</hi> is that which gave occaſion to our Second Controver<g ref="char:EOLhyphen"/>ſie, about Invocation of Saints: and the Management of the firſt did prepare me to expect all the outragious and indecent Uſage I have had from your Champion in the ſecond; I have been treated by him, with your leave, with ſuch Language as I could not have expected from a Scholar, or a Chriſtian. I have too great a re<g ref="char:EOLhyphen"/>ſpect for you, as well as for my Reader, to foul this Ad<g ref="char:EOLhyphen"/>dreſs to you with any of it: and I cannot think any among you can be willing to be entertained with ſuch ſtuff, excepting thoſe who allowed the Letter to Mr. <hi>Needham</hi> to the Preſs; if ſuch Language pleaſes them, I muſt intreat them to take up the Letter itſelf which they Licenſed, and there they will find entertain<g ref="char:EOLhyphen"/>ment enough. As for the reſt of you, Reverend Sirs, I muſt entertain you with Complaints and Requeſts, in<g ref="char:EOLhyphen"/>ſtead of bad Language.</p>
+            <p>I will not trouble you or my ſelf ſo far as to run over again what I have written and urged out of Anti<g ref="char:EOLhyphen"/>quity againſt your Invocation of Saints. I am ſure I have demonſtrated it through the Firſt, Second, Third, Fourth, and part of the Fifth Ages of the Church of God, that Invocation of Saints was ſo far from being the Practice, that it was expreſly againſt the Doctrine of the Martyrs and Fathers of thoſe Ages: Mr. <hi>Sabran</hi> had the courage to venture upon one Page of that large Hiſtorical Account of the Fathers, and to make his Ex<g ref="char:EOLhyphen"/>ceptions againſt it, which I took care to remove very ſoon after, and which I did very eaſily do, ſince beſides ſome harſher Miſtakes than he had hitherto made, there was little but mean Cavils.</p>
+            <p>As mean however as theſe Cavils were, he was pleas'd to cook them up anew, and to make them the Subject
+<pb n="5" facs="tcp:63875:4"/>
+of his cavilling Letter to the Learned Mr. <hi>Needham;</hi> I am not willing to throw away my time in anſwering again thoſe mean Objections, but am very well aſſured, that every one that will impartially read and conſider my <hi>Hiſtorical Diſcourſe concerning Invocation of Saints,</hi> and my <hi>Third Letter to Mr. Sabran,</hi> in defence of it, will be as much perſuaded as my Friends who have read them are, that I ought not to trouble my ſelf or the World with entring the Liſts again upon that Subject with ſuch a Trifler.</p>
+            <p>But there are ſome things there, which I could not paſs over without making ſome defence for my ſelf: they are his charging me with falſifying the Fathers Words and Senſe: and this I can aſſure you (R.R. Sirs) is an Accuſation I cannot lye quietly under, but muſt complain to thoſe who gave Mr. <hi>Sabran</hi> leave to print it.</p>
+            <p>Since I became a Writer in Defence of my Dear Mo<g ref="char:EOLhyphen"/>ther, the <hi>Church of England,</hi> I have been chiefly con<g ref="char:EOLhyphen"/>cerned with thoſe of your Party, who laid their Pre<g ref="char:EOLhyphen"/>tenſions to Antiquity, as if ſhe had been on your ſide againſt us: in my <hi>Anſwer</hi> to the Convert, Mr. <hi>Sclater</hi> of <hi>Putney,</hi> and to the <hi>Nubes Teſtium,</hi> and in my <hi>Primi<g ref="char:EOLhyphen"/>tive Fathers no Papiſts,</hi> I have had occaſion to make abundance of Citations out of the Fathers Words; I thank God that I can affirm it, that as I ſaw all I quo<g ref="char:EOLhyphen"/>ted (excepting one little Paſſage in <hi>Veteres Vindicati</hi>) with my own eyes in the Fathers themſelves, ſo I am not conſcious that I ever miſquoted, or altered, or falſi<g ref="char:EOLhyphen"/>fied any one Paſſage of them all, tho' ſo numerous: and therefore after ſo much care, and pains and ſincerity uſed herein, to be poſted up for a falſifier of Fathers, was very uneaſie, and what I cannot bear; eſpecially ſince I am no ſuch perſon, as I am confident I can convince every one of
+<pb n="6" facs="tcp:63875:5"/>
+you, to whom I make this Addreſs, if you will but give your ſelves the ſmall trouble to examine this buſineſs be<g ref="char:EOLhyphen"/>twixt him and me.</p>
+            <p>In Mr. <hi>Sabran's Challenge defended,</hi> he had quoted a Paſſage out of St. <hi>Athanaſius,</hi> in favour of Invocation of Saints. In my third Letter to him, I ſhewed not only that the Tract out of which he had it, was own'd to be ſpurious by your lateſt Critick, <hi>Monſieur du Pin,</hi> but that had it been St. <hi>Athanaſius</hi>'s, the Paſſage was urged by St. <hi>Athanaſius</hi> in a direct contrary ſenſe to that wherein Mr. <hi>S.</hi> had urged it. This I ſhewed not only from the Deſign of the whole Tract, but from the Paſſage itſelf, which was abuſed by him.</p>
+            <p>His Anſwer to this in his Letter to Mr. <hi>Needham</hi> is, That I, to <hi>keep my hand in</hi> (for it ſeems this is not the firſt time I have been guilty) <hi>must falſifie and miſ-apply the paſ<g ref="char:EOLhyphen"/>ſage,</hi> and then gives the Words as they ſtand in the <hi>Cul<g ref="char:EOLhyphen"/>len</hi> Tranſlation, which he had by him of the year 1617. <hi>If you adore the Man Christ, becauſe the Word of God dwells there, in the ſame manner adore alſo the Saints on the account of God, who hath his dwelling in them. Now that above the Holy Ghost, that is, above God a Man be honoured and glo<g ref="char:EOLhyphen"/>rified is the highest Impiety.</hi> Theſe ſays Mr. <hi>Sabran,</hi> are the holy Doctor's words. And theſe I am accuſed of fal<g ref="char:EOLhyphen"/>ſifying: whether I am guilty or no, ſhall quickly ap<g ref="char:EOLhyphen"/>pear; and to this purpoſe I intreat you all, you eſpecial<g ref="char:EOLhyphen"/>ly that did Licenſe this Accuſation to the Preſs, to look into your own Edition of St. <hi>Athanaſius</hi>'s Works, printed at <hi>Paris</hi> in <hi>Greek</hi> and <hi>Latine,</hi> by <hi>Morel</hi> and <hi>Cramoiſy</hi> 1627, in the firſt <hi>Tome</hi> at <hi>p.</hi> 593. you will find the paſſage quoted by us both: Which I will preſent in <hi>Greek</hi> to thoſe that underſtand it, and in <hi>Engliſh</hi> to thoſe that do not.</p>
+            <p>
+               <pb n="7" facs="tcp:63875:5"/>
+               <hi>Wherefore if you Adore the Man with God the Word,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. D. Athan. de Incarn. Verbi Dei, <hi>p.</hi> 593. Tom. 1. E<g ref="char:EOLhyphen"/>dit. Paris. Gr. L. 1627.</note> 
+               <hi>be<g ref="char:EOLhyphen"/>cauſe he dwells there, Adore the Saints alſo, for God dwells in them too: AND IS NOT THIS ABS<g ref="char:V">Ʋ</g>RD? And for a Man to be honoured above the Holy Ghost, that is, above God, is the highest Impiety.</hi>
+            </p>
+            <p>And now Reverend Sir, I appeal to every one of your own Conſciences, whether I am guilty of falſifying this paſſage, in putting in thoſe words, <hi>And is not this ab<g ref="char:EOLhyphen"/>ſurd?</hi> is not the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text? is not this your own Edition of <hi>St. Athanaſius</hi> out of a Popiſh Preſs? and can any of you deny this to be the trueſt and beſt Edition of that Fathers Works? If none of theſe things can be denyed by any men of Virtue and Honeſty, much leſs by men of your Character and ſtation; what ſatis<g ref="char:EOLhyphen"/>faction do you owe to me as well as to Truth and to the World, who did allow Mr. <hi>Sabran</hi> in print to affix ſo falſe a ſcandal upon me? I pray God to forgive you, and do aſſure you, that I have already done it.</p>
+            <p>In his Quotation of <hi>St. Cyril</hi> concerning the Virgin <hi>Mary,</hi> I told him that the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (which he made ſuch uſe of in his Tranſlation, and upon which the ſtreſs of the whole paſſage did depend) belonged to the Virgin's Womb, and not to the Virgin her ſelf. In his Letter to Mr. <hi>Needham</hi> he calls this a <hi>groſs Cheat, which any Gram<g ref="char:EOLhyphen"/>mar Scholar can eaſily find out,</hi> and very decently asks him whether <hi>he did not bluſh</hi> when he read this, and yet Li<g ref="char:EOLhyphen"/>cenſed it.</p>
+            <p>It was not Mr. <hi>Needam</hi> but Mr. <hi>S.</hi> that ſhould have bluſht at this, for Reverend Sirs, let me intreat you to look in <hi>St. Cyril</hi> himſelf, and you will not for the future Licenſe ſuch Language and ſuch Behaviour.</p>
+            <p>
+               <pb n="8" facs="tcp:63875:6"/>I will to convince you as well as the World, ſet down the paſſage as it is in <hi>St. Cyril</hi> himſelf; and as it was Tranſlated by Mr. <hi>Sabran;</hi> and as it ought to have been Tranſlated from the Original.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="translation">
+                        <head>Mr. <hi>Sabran</hi>'s Tran<g ref="char:EOLhyphen"/>ſlation.</head>
+                        <p>Hail Virgin, BY WHOSE MEDI<g ref="char:EOLhyphen"/>ATION the Holy Trinity is glorified and honour'd through the whole World; IN WHOM Heaven exults, Angels and Archangels rejoyce, by whom the Devils are put to flight.</p>
+                     </div>
+                     <div type="translation">
+                        <head>A True Tranſlati<g ref="char:EOLhyphen"/>on.</head>
+                        <p>Hail you that bore him that is incompre<g ref="char:EOLhyphen"/>henſible in your Ho<g ref="char:EOLhyphen"/>ly Virgin Womb, <hi>by which,</hi> or, by rea<g ref="char:EOLhyphen"/>ſon of which the Tri<g ref="char:EOLhyphen"/>nity is glorified; by which Heaven rejoy<g ref="char:EOLhyphen"/>ces, by which the An<g ref="char:EOLhyphen"/>gels and Arch-angels are joyful, by which the Devils are put to flight.</p>
+                     </div>
+                     <div xml:lang="grc" type="text">
+                        <head>The Text of St. <hi>Cy<g ref="char:EOLhyphen"/>ril.</hi>
+                        </head>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <bibl>S. Cyril. Alexand. Homil. Diver. Tom. 5. Pars 2. p. 355. Edit. Paris 1638.</bibl>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>You ſee, Reverend Sirs, the Text and the Tranſlations together, and now I cannot but ask you, whether the firſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (which Mr. <hi>Sabran</hi> had Tranſlated <hi>By whoſe Mediation</hi>) does not follow immediately after the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Virgin's Womb, and is connected relative<g ref="char:EOLhyphen"/>ly to it; I will hope that the ſight of theſe things will not only acquit me in your Conſciences from the Accu<g ref="char:EOLhyphen"/>ſation of a <hi>groſs Cheat</hi> which M. <hi>S.</hi> had laid to my charge, but that you who Licenſed that Letter to Mr. <hi>Needham</hi> to the Preſs, will not for the future ſuffer Mr. <hi>Sabran</hi> to lay ſuch very falſe and groundleſs Accu<g ref="char:EOLhyphen"/>ſations either unto mine, or any of our Writers charge. If you do, notwithſtanding this diſcovery of him and his ſtrange practices ſuffer him to go on in his way, we ſhall
+<pb n="9" facs="tcp:63875:6"/>
+for the future be obliged to lay any ſuch Slanders at your doors, Reverend Sirs, who Licenſe them.</p>
+            <p>Another Accuſation as heavy as either of theſe, he does advance againſt me, about the Words of the Council of <hi>Chalcedon:</hi> He tells Mr. <hi>Needham,</hi> in that his obliging Letter to him, That I, <hi>having made way for a Forgery, fal<g ref="char:EOLhyphen"/>ſify that Council's</hi> words.</p>
+            <p>I have got it ſeems of late a very unlucky hand, or a very unjuſt Adverſary; but you, Reverend Sirs, ſhall de<g ref="char:EOLhyphen"/>termine whether it is. I hope I need not tell you the Hiſtory of <hi>Stephen</hi> and <hi>Baſſianus,</hi> nor remind how it was upon the mention that <hi>Flavianus</hi> had communicated with <hi>Baſſianus</hi> the rejected Biſhop of <hi>Epheſus,</hi> that the Biſhops which belonged to <hi>Conſtantinople</hi> roſe up and cryed out, <hi>This is the Truth, we all ſay the ſame, the Memory of</hi> Fla<g ref="char:EOLhyphen"/>vian <hi>is eternal; behold the Truth, <hi>Flavian lives after death; the Martyr ſhall intreat you for us;</hi> Flavian is here, Flavian judges with us.</hi>
+            </p>
+            <p>My crime here is that I have Tranſlated the words of the Council different from him: but why ſo many hard words upon it. He Tranſlates the words, <hi>Flavianus lives after death, that the Martyr pray for as;</hi> but I with my Forgery, <hi>The Martyr <hi>ſhall</hi> intreat you for us.</hi> I will put down the Text it ſelf: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>I do not intreat you, Gentlemen, to trouble your ſelves to end this doughty terrible Quarrel betwixt Mr. <hi>Sabran</hi> and me. I hope ſome of Mr. <hi>Pulton</hi>'s Scholars at the <hi>Sa<g ref="char:EOLhyphen"/>voy,</hi> are ſo much Proficients as to tell what Mood and Tenſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is of: If they be, I will e'en leave it to them, and truſt the Lads with it, who will certainly be Degra<g ref="char:EOLhyphen"/>ded if they be not on my ſide.</p>
+            <p>I will trouble your Reverences no further with Mr. <hi>Sabran</hi>'s Accuſations of me, I hope theſe I ſend you
+<pb n="10" facs="tcp:63875:7"/>
+may have ſo much ſucceſs as to diſcover the Man to you; which is the utmoſt of my Intentions in this Letter a<g ref="char:EOLhyphen"/>gainſt him; for I am very certain, that ſuch a knowledge and inſight into the Jeſuit, and his Behaviour will procure him a <hi>Quietus</hi> from you, who cannot love to have your Cauſe defended by ſuch diſingenuous and unaccountable ways as this Mr. <hi>Sabran</hi> is got into. However, the leaſt I can hope for at your hands is, that when this Mr. <hi>Sa<g ref="char:EOLhyphen"/>bran</hi> ſets up for Writer again, you would lay your Com<g ref="char:EOLhyphen"/>mands upon him, to leave out ſuch defamatory Language, and to have a care of Forgeries and Falſifications, and that you would let him know withal, that if he does not leave off ſuch Practices, you cannot in Honour or Con<g ref="char:EOLhyphen"/>ſcience give your Licenſe or Allowance to his Books, ſince he has been not only accuſed, but proved before your own faces to have been guilty of ſuch behaviour as is not only diſhonourable to your Religion, but Chriſtia<g ref="char:EOLhyphen"/>nity itſelf.</p>
+            <p>But after all, I am not of ſuch a temper as to believe that Mr. <hi>Sabran,</hi> or any of your other Authors are of ſuch a Nature as to love theſe unaccountable Practices for their own ſakes, or to calumniate others for Calum<g ref="char:EOLhyphen"/>nies ſake; no I profeſs my belief to be that what any of them have been guilty of herein, is matter of neceſſity and not their own choice; that it is the very great bad<g ref="char:EOLhyphen"/>neſs of your Cauſe, and not their own Inclinations that puts them upon ſuch dangerous things: and this gives me occaſion to addreſs my ſelf to your ſelves, Reverend Sirs, and to beg of you, that you would ſo far lay by all prejudices, and partial intereſts, as to admit a ſerious con<g ref="char:EOLhyphen"/>ſideration of this one thing into your minds, that that cannot be either a good, a true, or a ſafe Religion, that is forc'd to make uſe of ſuch Arts and Arguments in the defence of her as are a blemiſh to our common Chriſtia<g ref="char:EOLhyphen"/>nity.</p>
+            <p>
+               <pb n="11" facs="tcp:63875:7"/>I have the charity to believe, that were your <hi>Church of Rome</hi> as pure now as it was in the Apoſtles time, or as pure as our <hi>Church of England</hi> (bleſſed be God for it) is, and our Church as corrupt as we know yours to be, that you would have the ſame tenderneſs for our immor<g ref="char:EOLhyphen"/>tal Souls as we have for yours, and that you would with all the earneſtneſs and concern imaginable call upon us, and exhort us, and beſeech us to come out of the <hi>Church of England,</hi> and forſake all dangerous and unlawful Do<g ref="char:EOLhyphen"/>ctrines and Practices.</p>
+            <p>Give me leave therefore, Reverend Sirs, who have this very care and concern for all your Salvations, to be as earneſt with you as ſuch a thing, and your condition doth require at our hands.</p>
+            <p>That your Condition, as Members of the <hi>Church of Rome,</hi> is moſt dangerous and unſafe to your Souls, I need not tell you now; eſpecially ſince all that care and pains, and unwearied diligence hath been taken by the <hi>Church of England,</hi> to convince you of the Errors and Dangers of your Ways. They have left you now un<g ref="char:EOLhyphen"/>excuſable, if you do not betake your ſelves, as bound in conſcience, into the Boſom of your moſt tender, but neglected Mother, the <hi>Church of England,</hi> by having proved it ſo plainly and ſo fully, that your Religion is not the true Religion of Chriſt: They have proved, that your Romiſh Religion hath no Foundation nor Counte<g ref="char:EOLhyphen"/>nance in the Word of God, and where, I beſeech you, ſhould the Chriſtian Religion be found, if not in the Holy Scriptures; does it want that advantage the Jewiſh hath of being viſible in the Old Law? The Clergy of this City have almoſt gone through all your Romiſh Do<g ref="char:EOLhyphen"/>ctrines and Practices, and made it apparent, that thoſe very few Texts of Scripture which you lay claim to in defence of your Religion, are moſt directly againſt it.</p>
+            <p>
+               <pb n="12" facs="tcp:63875:8"/>As they have ſhewn, that the Holy Scriptures are not for you, ſo they have proved, that your Religion had no being till Chriſtianity had been above three hun<g ref="char:EOLhyphen"/>dred years in the World; your ſelves cannot be ignorant of the Truth of this, you cannot deny that when your Writers are challenged to produce the Examples of the three firſt and pureſt Ages of the Chriſtian Church, that they dare not undertake it: I will inſtance in your Repre<g ref="char:EOLhyphen"/>ſenter who wrote the <hi>Nubes Teſtium,</hi> and in Mr. <hi>Sabran</hi> himſelf, who hath not given one word of anſwer to my challenge, to ſhew me that your Invocation of Saints was taught and practiſed in the three firſt Ages of the Church.</p>
+            <p>This is a mighty and unanſwerable Prejudice againſt your Romiſh Religion; for where, in God's Name, ſhould we look for ſincere Chriſtianity, and where ſhould we ex<g ref="char:EOLhyphen"/>pect to find it, if not in the Records of the Sacred Scri<g ref="char:EOLhyphen"/>ptures, and in the Practices of the firſt and pureſt Ages of the Chriſtian Church.</p>
+            <p>I will not deſcend to the particular Controverſies be<g ref="char:EOLhyphen"/>twixt you and us, it is too tedious for the end of a Let<g ref="char:EOLhyphen"/>ter: but will beg of you, that your Religion and ours may be tried by this evident and plain Principle, That that Religion ought to be preferr'd to any other, which doth moſt tend to the promoting and propagating the Glory of God and of our bleſſed Saviour, and ſecuring the Edification of the People of their Communion.</p>
+            <p>Now in the fear of God, and with his aſſiſtance, let us impartially examine both Churches by this Rule; you your ſelves ſhall be Judges here as to the firſt, whe<g ref="char:EOLhyphen"/>ther that Church doth not more promote the Glory of God, that is for dedicating and attributing all Religious Worſhip to God alone, than that Church which doth di<g ref="char:EOLhyphen"/>vide it betwixt God and his Creatures, betwixt God and Stocks and Stones, and the Bones of Dead Men? if the
+<pb n="13" facs="tcp:63875:8"/>
+more we worſhip God, the more we honour him, that Church muſt honour him moſt of all, which worſhips him moſt of all, and that the Church certainly does, which makes all Religious Worſhip whatever peculiar to his Infinite Majeſty alone.</p>
+            <p>And for the Glory of our bleſſed Saviour, does not that Church honour him moſt, that makes him the Sole Me<g ref="char:EOLhyphen"/>diator, that offers up all her Prayers in his Name and for his Honour? does not ſhe honour him far more than that Church, which makes Saints and Angels Joynt-Mediators with him, and worſhips them for that, which is to be done by him alone, and for which all that wor<g ref="char:EOLhyphen"/>ſhip ought to have been paid to him. The greateſt Ho<g ref="char:EOLhyphen"/>nour we can do our bleſſed Saviour certainly is to rely wholly upon his Mediation, and to place our whole con<g ref="char:EOLhyphen"/>fidence in him.</p>
+            <p>And for the Edification of the People, does that Church conſult it ſo much, as hath its Prayers in a Language the People do not underſtand, as that Church which puts up ſuch Prayers as all the People can underſtand and joyn with? This is ſo evident againſt the <hi>Church of Rome,</hi> that we need neither Scripture nor Fathers to urge againſt you, ſince the very Light of Nature doth ſo abſolutely condemn ſuch dumb unintelligible Service.</p>
+            <p>It were eaſie for me to urge theſe things further upon all your Conſciences, but I can only now intreat you, that as you love your own Souls, you would give way to ſuch further Reflections upon theſe three points as will be apt to ſuggeſt themſelves, if you be reſolved to lay aſide all Prejudices from Education, Station, or Intereſt. It will be more glory for any one of you to embrace the true Faith and Proteſtant Religion now, than at any o<g ref="char:EOLhyphen"/>ther time, ſince this will convince the World that it was the pure Dictates of your Conſciences, and the concern
+<pb n="14" facs="tcp:63875:9"/>
+for your immortal Souls, that made you leave the dan<g ref="char:EOLhyphen"/>gerous Communion of the <hi>Church of Rome,</hi> and renounce all her Errors and corrupt Doctrines. Do not deſpiſe, Re<g ref="char:EOLhyphen"/>verend Sirs, the Concern I diſcover for your eternal In<g ref="char:EOLhyphen"/>tereſt; you will joyn your Prayers to mine, that after the proving of all things, you may have the Grace to hold that which is good: and then I am certain you cannot continue in the Communion of the <hi>Church of Rome.</hi>
+            </p>
+            <p>In the mean time I have this further Charity for you, to believe that if the <hi>Church of England</hi> be a true Church of Chriſt, and her Doctrines pure, and her Worſhip holy, (as I am certain it is, and ready to ſeal my Belief with my Bloud) that you will joyn your Prayers with mine, for the Proſperity of this <hi>Church of England,</hi> that God would abate the Pride, and aſſwage the Malice of all its Enemies, and that he would confound the Devices of all and every <hi>Society</hi> or Party of Enemies againſt this moſt Holy and Apoſtolick <hi>Church of England.</hi>
+            </p>
+            <p>In the Confidence of this your Chriſtian Charity, I cannot but ſubſcribe my ſelf,</p>
+            <closer>
+               <salute>Reverend Sirs,</salute>
+               <signed>Your moſt hearty Well-wiſher, and humble Servant in Chriſt, <hi>E. G.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:63875:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
